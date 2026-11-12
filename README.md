@@ -2,7 +2,7 @@
 
 Lab experiments and mini-projects from my **Machine Learning** course at The National Institute of Engineering (NIE), Mysuru. The repo walks through the fundamentals in order: Python data libraries, linear and polynomial regression, cross-validation, regularization, and a logistic regression classifier.
 
-**Author:** Ritun Jain · **USN:** 4NI24CI087 · BE Computer Engineering (AI & ML), 2024-2028
+**Author:** Ramcharan Tej S · **USN:** 4NI24CI084 · BE Computer Engineering (AI & ML), 2024-2028
 
 ---
 
